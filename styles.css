@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'Roboto', sans-serif;}
+
+footer{
+    background-color: green;
+    color: white;}
+header{
+    background-color: green;
+    text-align:right;
+    padding: 0px;
+    font-size: large;}
+    .bg {
+    background-color: floralwhite;}
+a{
+    color:aliceblue;}
+ul > li {
+    display: inline-block;
+    margin: 0px;
+    padding: 0%;overflow:;}
+li a:hover {
+    background-color:green;}
+.nav-bar{
+    display: block;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    float: left;
+    background-color: rgb(6, 100, 6);
+    color: white;
+    border: 5px ;}
+#CR {
+    text-align: right;}
+.nav-foot{
+    color: white;
+    text-align: left;
+    padding:1px 5px;
+    text-decoration: none;
+    float: left;
+    background-color:  rgb(6, 100, 6);}
