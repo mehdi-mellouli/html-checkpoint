@@ -1,12 +1,18 @@
 
 body{
     font-family: 'Roboto', sans-serif;}
+    .button {
+        color: rgb(255, 41, 3); font-size: 14px; line-height: 14px; padding: 9px; border-radius: 13px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+        .myButton:hover {
+        background: #1C6EA4; }
+        .myButton:active {
+        background: #144E75; }
 
 footer{
     background-color: green;
     color: white;}
 header{
-    background-color: green;
+    background-color:green ;
     text-align:right;
     padding: 0px;
     font-size: large;}
